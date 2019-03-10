@@ -178,7 +178,7 @@ def banner():
 	print "+========================================================+" """
 
 def check_for_update():
-	lfisuite_github_url = "https://raw.githubusercontent.com/"
+	lfisuite_github_url = "https://raw.githubusercontent.com/Cr7pt0nic/LFIshit/master/lfishit.py"
 	keyword = "LFS_VERSION = '"
 	updated = False
 	print "\n[*] Checking for LFIShit updates just so u don't miss the latest ;) "
