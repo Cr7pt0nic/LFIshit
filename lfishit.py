@@ -169,13 +169,13 @@ def banner():
 	/_______/\__\// / /   /\__\/_/___\\ \/___/ /  / / /   / / //\__\/_/___\/_/ /          
 	\_______\/    \/_/    \/_________/ \_____\/   \/_/    \/_/ \/_________/\_\/           
 
-	       +========================================================+
-	       |							|
-	       |	yeah i was bored as fuck all night so i decided	|
-	       |	to make this piece of shit ;)			|
-	       |	anyways this was made by yuh boi CRYPTO with a  |
-	       |	lil bit of love n all that random shit ;)	|
-	       +========================================================+ 			"""
++=======================================================+
+|							|
+|	yeah i was bored as fuck all night so i decided	|
+|	to make this piece of shit ;)			|
+|	anyways this was made by yuh boi CRYPTO with a  |
+|	lil bit of love n all that random shit ;)	|
++=======================================================+					"""
 
 def check_for_update():
 	lfisuite_github_url = "https://raw.githubusercontent.com/Cr7pt0nic/LFIshit/master/lfishit.py"
